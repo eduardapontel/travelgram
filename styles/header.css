@@ -1,8 +1,9 @@
 header {
     padding-block: 32px;
+    font: var(--text-md);
 }
 
-header .container{
+header .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -23,11 +24,7 @@ header .container{
     margin-bottom: 8px;
 }
 
-#profile p {
-    font: var(--text-md);
-}
-
-#info{
+#info {
     list-style: none;
     display: flex;
     flex-direction: column;
@@ -35,7 +32,7 @@ header .container{
     width: 280px;
 }
 
-#info li{
+#info li {
     display: flex;
     align-items: center;
     gap: 8px;
