@@ -4,6 +4,14 @@ Travelgram is a travel profile showcasing a collection of photos and travel info
 
 <br>
 
+## Layout ✏️
+
+The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following link: [Figma Layout](https://www.figma.com/community/file/1360315496868719817).
+
+The layout showcases the structure, color scheme, and visual design of the recipe page, providing a clear reference for the development of the project.
+
+<br>
+
 ## Project Structure 📂
 
 The project consists of the following files and folders:
@@ -21,10 +29,10 @@ The project consists of the following files and folders:
 
 ## HTML Structure 📝
 
-Header: Contains the user profile, including an image, name, and description, as well as additional information such as location, number of countries visited, and number of photos.
-Navigation: Includes links to explore, view trips, and access the profile.
-Main Area: Displays a photo gallery.
-Footer: Contains copyright information and links to terms of use and privacy policy.
+- Header: Contains the user profile, including an image, name, and description, as well as additional information such as location, number of countries visited, and number of photos.
+- Navigation: Includes links to explore, view trips, and access the profile.
+= Main Area: Displays a photo gallery.
+- Footer: Contains copyright information and links to terms of use and privacy policy.
 
 <br>
 
@@ -32,11 +40,11 @@ Footer: Contains copyright information and links to terms of use and privacy pol
 
 The styles are organized into different CSS files for ease of maintenance:
 
-global.css: Defines default styles and design variables.
-header.css: Styles specific to the header.
-main.css: Styles for the photo gallery.
-nav.css: Styles for the navigation bar.
-footer.css: Styles for the footer.
+- global.css: Defines default styles and design variables.
+- header.css: Styles specific to the header.
+- main.css: Styles for the photo gallery.
+- nav.css: Styles for the navigation bar.
+- footer.css: Styles for the footer.
 
 <br>
 
