@@ -24,6 +24,7 @@ The project consists of the following files and folders:
   - **nav.css**: Styles for the navigation bar.
   - **footer.css**: Styles for the footer.
   - **index.css**: Import file that aggregates all CSS styles.
+- **assets/**: Directory containing images and icons used in the project.
 
 <br>
 
