@@ -70,4 +70,4 @@ Feel free to contribute to the project! For suggestions or fixes, please submit 
 
 ## Notes 📌
 
-This form is static and does not include functionality for form submission or backend integration.
+This page is static and does not include functionality for buttons or backend integration.
