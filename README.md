@@ -65,3 +65,9 @@ The styles are organized into different CSS files for ease of maintenance:
 ## Contributing 🤝
 
 Feel free to contribute to the project! For suggestions or fixes, please submit a pull request or open an issue on GitHub.
+
+<br>
+
+## Notes 📌
+
+This form is static and does not include functionality for form submission or backend integration.
