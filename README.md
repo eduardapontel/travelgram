@@ -1,6 +1,6 @@
 # Travelgram 🌍📸
 
-Travelgram is a static webpage showcasing a travel profile with a collection of photos and travel information.
+Travelgram is a responsive static webpage showcasing a travel profile with a collection of photos and travel information.
 
 <br>
 
