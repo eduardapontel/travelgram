@@ -30,8 +30,8 @@ The project consists of the following files and folders:
 
 ## HTML Structure 📝
 
-- Header: Contains the user profile, including an image, name, and description, as well as additional information such as location, number of countries visited, and number of photos.
 - Navigation: Includes links to explore, view trips, and access the profile.
+- Header: Contains the user profile, including an image, name, and description, as well as additional information such as location, number of countries visited, and number of photos.
 - Main Area: Displays a photo gallery.
 - Footer: Contains copyright information and links to terms of use and privacy policy.
 
