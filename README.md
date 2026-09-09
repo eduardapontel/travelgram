@@ -16,15 +16,15 @@ The layout showcases the structure, color scheme, and visual design of the webpa
 
 The project consists of the following files and folders:
 
-- **index.html**: The main HTML file that structures the page.
-- **styles/**: Directory containing CSS files for styling the site.
-  - **global.css**: Defines global styles and design variables.
-  - **header.css**: Specific styles for the header.
-  - **main.css**: Styles for the main area where photos are displayed.
-  - **nav.css**: Styles for the navigation bar.
-  - **footer.css**: Styles for the footer.
-  - **index.css**: Import file that aggregates all CSS styles.
-- **assets/**: Directory containing images and icons used in the project.
+- ```index.html```: The main HTML file that structures the page.
+- ```styles/```: Directory containing CSS files for styling the site.
+  - ```global.css```: Defines global styles and design variables.
+  - ```header.css```: Specific styles for the header.
+  - ```main.css```: Styles for the main area where photos are displayed.
+  - ```nav.css```: Styles for the navigation bar.
+  - ```footer.css```: Styles for the footer.
+  - ```index.css```: Import file that aggregates all CSS styles.
+- ```assets/```: Directory containing images and icons used in the project.
 
 <br>
 
@@ -41,11 +41,11 @@ The project consists of the following files and folders:
 
 The styles are organized into different CSS files for ease of maintenance:
 
-- global.css: Defines default styles and design variables.
-- header.css: Styles specific to the header.
-- main.css: Styles for the photo gallery.
-- nav.css: Styles for the navigation bar.
-- footer.css: Styles for the footer.
+- ```global.css```: Defines default styles and design variables.
+- ```header.css```: Styles specific to the header.
+- ```main.css```: Styles for the photo gallery.
+- ```nav.css```: Styles for the navigation bar.
+- ```footer.css```: Styles for the footer.
 
 <br>
 
@@ -56,7 +56,9 @@ The styles are organized into different CSS files for ease of maintenance:
 **Or** follow the steps below to run it locally:
 
 - Clone the repository:
-   ```git clone https://github.com/eduardapontel/travelgram.git```
+   ```bash
+    git clone https://github.com/eduardapontel/travelgram.git
+   ```
 
 - Open `index.html` in your browser.
 
